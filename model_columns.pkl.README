@@ -1,0 +1,14 @@
+# Pollution Prediction Model
+
+Due to GitHub's 25MB file size limit, the trained machine learning model and its associated data are hosted on Google Drive.
+
+##  File Details
+
+- **Model File:** `pollution_model.pkl`  
+- **Columns File:** `model_columns.pkl`
+
+##  Download Link
+
+ [Click here to download the files from Google Drive](https://drive.google.com/file/d/1XxaQqa2MfVNlT_6xCDCMJtQF22jbJi1-/view?usp=drive_link)
+
+Make sure to download and place the files in the same directory as your code for proper loading.
